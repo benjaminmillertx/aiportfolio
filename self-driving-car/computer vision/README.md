@@ -2,11 +2,11 @@
 This section an algorithm for following the road will be created.
 
 # TODO:
-- Go to the code for this section, if you don't have it follow the installation lecture or go to the github repository, the path is: "Self-Driving-Cars-Course/2_computer_vision"
+
 - Run the file "1_image_threshold.py", I recommend to use the Python debugger to understand how the thresholding operation works
 - Open Webots by double clicking the file "Self-Driving-Cars/words/city.wbt"
-- Run the code the file "2_camera_pid.py" as it is to ensure that everything works and make sure that you understand the logic behind it
-- Go to the file "2_computer_vision/utils.py"
+- Run the code the file "_camera_pid.py" as it is to ensure that everything works and make sure that you understand the logic behind it
+- Go to the file "_computer_vision/utils.py"
 - Remove the content of function "calculate_normalized_average_col" by leaving it as:
 ```
 def calculate_normalized_average_col(binary_image):
