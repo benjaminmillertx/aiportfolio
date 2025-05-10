@@ -132,7 +132,7 @@ public class Lesson5
     }
 }
 
-✅ Output Sample (After Training)
+ Output Sample (After Training)
 
 ------------------------------------------------------------
 Expected: 0 | Predicted: 0 --> ✓
