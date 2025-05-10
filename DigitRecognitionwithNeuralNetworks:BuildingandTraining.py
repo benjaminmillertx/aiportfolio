@@ -9,7 +9,7 @@ import org.netgene.network.training.data.TrainingData;
  *
  * @author Benjamin Hunter Miller
  */
-public class Lesson5
+public class BenjaminMachineLearning
 {
     private static MultiLayerNetwork network;
 
