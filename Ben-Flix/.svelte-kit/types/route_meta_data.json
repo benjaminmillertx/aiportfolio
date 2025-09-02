@@ -1,0 +1,19 @@
+{
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/api/movie/[id]": [
+		"src/routes/api/movie/[id]/+server.ts"
+	],
+	"/api/movie/[id]/similar": [
+		"src/routes/api/movie/[id]/similar/+server.ts"
+	],
+	"/api/trailer/[id]": [
+		"src/routes/api/trailer/[id]/+server.ts"
+	],
+	"/myList": [],
+	"/search": [
+		"src/routes/search/+page.ts"
+	],
+	"/watch/[id]": []
+}
