@@ -21,3 +21,27 @@ breast_cancer_prediction.ipynb – Jupyter notebook containing the complete impl
 🛠 Requirements
 
 Ensure the following Python libraries are installed:
+
+pip install pandas numpy scikit-learn matplotlib
+
+🚀 How to Use
+
+Clone the repository:
+git clone https://github.com/harshita2234/Breast-Cancer-Prediction.git
+
+Navigate to the project directory:
+cd Breast-Cancer-Prediction
+
+Launch the notebook:
+jupyter notebook breast_cancer_prediction.ipynb
+
+Run each cell to follow the data analysis and model results.
+
+📄 License
+
+This project is open-source and available under the MIT License
+🙏 Acknowledgments
+
+Coursera
+Wisconsin Diagnostic Breast Cancer (WDBC) Dataset
+
