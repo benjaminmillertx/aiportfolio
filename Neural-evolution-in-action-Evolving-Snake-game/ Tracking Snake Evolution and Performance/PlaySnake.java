@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author CBaba
+ * @author Benjamin Miller
  */
 public class PlaySnake 
 {
