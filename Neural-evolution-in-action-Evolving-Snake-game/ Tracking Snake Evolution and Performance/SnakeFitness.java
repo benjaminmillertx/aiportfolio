@@ -11,7 +11,7 @@ import org.netgene.network.MultiLayerNetwork;
 
 /**
  *
- * @author cbaba
+ * @author Benjamin Miller
  */
 public class SnakeFitness implements FitnessFunction
 {
